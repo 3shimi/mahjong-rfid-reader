@@ -103,9 +103,9 @@ pio --version
 ### 2. 編譯和上傳
 ```bash
 # 進入專案目錄
-cd /Users/3shimi/Projects/Mahjong_Reader_Stream_SD_CARD
+cd /Users/3shimi/Projects/mahjong-rfid-reader
 
-# 編譯專案  
+# 編譯專案
 pio run
 
 # 連接 ESP32 並上傳

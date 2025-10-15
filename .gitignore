@@ -12,6 +12,7 @@
 
 # Personal configs
 .mcp.json
+.claude/settings.local.json
 
 # Thumbnails
 ._*

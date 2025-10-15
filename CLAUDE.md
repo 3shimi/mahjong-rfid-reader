@@ -122,7 +122,7 @@ pio device monitor
 
 ### 目錄架構
 ```
-Mahjong_Reader_Stream_SD_CARD/
+mahjong-rfid-reader/
 ├── platformio.ini          # PlatformIO 配置檔
 ├── src/
 │   └── main.cpp           # 主程式 (原 .ino)

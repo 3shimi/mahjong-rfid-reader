@@ -38,7 +38,7 @@ pio --version
 ### 命令行操作
 ```bash
 # 進入專案目錄
-cd /Users/3shimi/Projects/Mahjong_Reader_Stream_SD_CARD
+cd /Users/3shimi/Projects/mahjong-rfid-reader
 
 # 編譯專案
 pio run
@@ -108,7 +108,7 @@ pio lib install "https://github.com/pschatzmann/arduino-audio-tools.git#v0.9.8"
 ## 專案結構說明
 
 ```
-Mahjong_Reader_Stream_SD_CARD/
+mahjong-rfid-reader/
 ├── platformio.ini          # PlatformIO 配置檔
 ├── src/
 │   └── main.cpp            # 主程式 (原 .ino 檔案)
