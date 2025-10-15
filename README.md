@@ -65,8 +65,8 @@ GND      →  GND
 pip install platformio
 
 # 下載專案
-git clone https://github.com/你的用戶名/Mahjong_Reader_Stream_SD_CARD.git
-cd Mahjong_Reader_Stream_SD_CARD
+git clone https://github.com/3shimi/mahjong-rfid-reader.git
+cd mahjong-rfid-reader
 
 # 編譯專案
 pio run
